@@ -17,7 +17,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Akirame no warui tayou',
-    'Anta ra nanka ja tabanatte mo kanawan',
-    'Kuwabara (3x)'
+    'Tu viu a faca?',
+    'Que faca???',
+    'Madako no Sekai uwa'
 )
